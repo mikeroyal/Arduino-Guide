@@ -75,3 +75,39 @@
 [Arduino with Python course from Real Python](https://realpython.com/arduino-python/)
 
 [200+ Arduino Projects on Instructables](https://www.instructables.com/Arduino-42/)
+
+
+## Tools
+ 
+[Arduino CLI](https://github.com/arduino/arduino-cli) is an all-in-one solution that provides builder, Boards/Library Manager, uploader, discovery and many other tools needed to use any Arduino compatible board and platforms.
+ 
+[Arduino IDE](https://www.arduino.cc/en/software) is an open source integrated development environment(IDE) for the Arduino computing platforms based on easy-to-use hardware and software.
+ 
+[Arduino Pro IDE](https://github.com/arduino/arduino-pro-ide) is a professional version of the Arduino IDE that brings more features for advanced users and developers. The project is currently in the experimently version.
+
+[VSCode Arduino](https://github.com/Microsoft/vscode-arduino) is a VSCode extension for Arduino.  The Arduino extension makes it easy to develop, build, deploy and debug your Arduino sketches in Visual Studio Code, with a rich set of functionalities. 
+ 
+[Gobot](https://gobot.io/) is a framework using the [Golang](https://golang.org/)  programming language for robotics, physical computing, and the Internet of Things(IoT).
+ 
+[Tasmota](https://tasmota.github.io/docs) is an alternative firmware for [ESP8266](https://en.wikipedia.org/wiki/ESP8266) based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX.
+ 
+[Blynk](https://www.blynk.cc/) is a C++ library for embedded hardware. It works with over 400 hardware models such as Arduino, ESP8266, Raspberry Pi, Intel Edison/Galileo, LinkIt ONE, Particle Core/Photon, ARM mbed, etc.
+ 
+[Arduino Thread](https://github.com/ivanseidel/ArduinoThread) is a library tha makes it simple to run Threads on Arduino.
+ 
+[PlatformIO](https://platformio.org/) is a professional collaborative platform for embedded development with no vendor lock-in. It provides support for multiplatforms and frameworks such as IoT, Arduino, CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, Pulp OS, SPL, STM32Cube, Zephyr RTOS, ARM, AVR, Espressif (ESP8266/ESP32), FPGA, MCS-51 (8051), MSP430, Nordic (nRF51/nRF52), NXP i.MX RT, PIC32, RISC-V.
+
+[PlatformIO for VSCode](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide) is a plugin that provides support for the PlatformIO IDE on VSCode.
+ 
+[Tock](https://www.tockos.org/) is an embedded operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M and RISC-V based embedded platforms. Tock's design centers around protection, both from potentially malicious applications and from device drivers. 
+
+[TinyGo](https://tinygo.org/) is a Go compiler(based on LLVM) intended for use in small places such as microcontrollers, WebAssembly (Wasm), and command-line tools.
+
+[LLVM](https://github.com/llvm/) is a library that has collection of modular/reusable compiler and toolchain  components (assemblers, compilers, debuggers, etc.). With these components LLVM can be used as a compiler framework, providing a front-end(parser and lexer) and a back-end (code that converts LLVM's representation to actual machine code).
+
+[Chipyard](https://chipyard.readthedocs.io/en/latest/) is an open source framework for agile development of Chisel-based systems-on-chip. It will allow you to leverage the Chisel HDL, Rocket Chip SoC generator, and other [Berkeley](https://berkeley.edu/) projects to produce a RISC-V SoC with everything from MMIO-mapped peripherals to custom accelerators.
+
+[The Eclipse Embedded CDT](https://github.com/eclipse-embed-cdt/eclipse-plugins) is a collection of plug-ins for Arm & RISC-V C/C++ developers.
+[Unicorn](https://github.com/unicorn-engine/unicorn) is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
+
+[Keystone](https://github.com/keystone-engine/keystone) is a lightweight multi-platform, multi-architecture(Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) assembler framework.
