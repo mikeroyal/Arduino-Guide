@@ -50,42 +50,28 @@
  
 ## Resources
  
-[FPGA(Field Programmable Gate Arrays)](https://www.xilinx.com/products/silicon-devices/fpga/what-is-an-fpga.html) are semiconductor devices that are based around a matrix of configurable logic blocks (CLBs) connected via programmable interconnects. FPGAs can be reprogrammed to desired application or functionality requirements after manufacturing.
-
-[TinyFPGA](https://tinyfpga.com) is a new series of boards that are low-cost, [open source FPGA boards](https://github.com/tinyfpga) in a tiny form factor.
-
-[SiFive FPGA shells](https://github.com/sifive/fpga-shells)
-
-[FPGA & SoC Design Tools from Microsemi](https://www.microsemi.com/product-directory/fpga-soc/1637-design-resources)
-
-[QuickLogic Embedded FPGA (eFPGA) Intellectual Property (IP) and Software](https://www.quicklogic.com/products/efpga/efpga-ip-software/)
-
-[FPGA for Beginners with Development Boards from Digilent®](https://store.digilentinc.com/fpga-for-beginners/)
-
-[Hundreds of FPGA Projects on Instructables](https://www.instructables.com/circuits/howto/FPGA/)
+[Arduino](https://www.arduino.cc/) is an open source electronic prototyping platform enabling users to create interactive electronic objects.
  
-[FPGA Fundamentals from NI(National Instruments)](https://www.ni.com/en-us/innovations/white-papers/08/fpga-fundamentals.html)
+[Arduino Reference Manual](https://www.arduino.cc/reference/)
+ 
+[Getting Started with Arduino](https://create.arduino.cc/getting-started)
+ 
+[Arduino Education](https://www.arduino.cc/education)
+ 
+[Arduino Store](https://store.arduino.cc/)
+ 
+[Arduino Forum](https://forum.arduino.cc/)
+ 
+[Arduino Courses on Udemy](https://www.udemy.com/topic/arduino/)
+ 
+[Arduino Courses on Coursera](https://www.coursera.org/courses?query=arduino)
+ 
+[Online Arduino Classes on Skillshare](https://www.skillshare.com/browse/arduino)
+ 
+[Introduction to Arduino course on Pluralsight](https://www.pluralsight.com/courses/arduino-introduction)
+ 
+[Arduino Training Courses on NobleProg](https://www.nobleprog.com/arduino-training)
+ 
+[Arduino with Python course from Real Python](https://realpython.com/arduino-python/)
 
-[Getting Started With LabVIEW FPGA from NI(National Instruments)](https://www.ni.com/tutorial/14532/en/)
- 
-[Programming and FPGA Basics - INTEL® FPGAS](https://www.intel.com/content/www/us/en/products/programmable/fpga/new-to-fpgas/resource-center/overview.html)
- 
-[Intel FPGA Training Program](https://www.intel.com/content/www/us/en/programmable/support/training/overview.html)
- 
-[FPGA Courses on Coursera](https://www.coursera.org/courses?query=fpga)
- 
-[FPGA Courses on Udemy](https://www.udemy.com/topic/fpga/)
- 
-[FPGA Online Training Courses on LinkedIn Learning](https://www.linkedin.com/learning/topics/fpga)
-
-[UMass Lowell's Graduate Certificate in Field Programmable Gate Arrays(FPGA)](https://gps.uml.edu/certificates/grad/online-field-programmable-gate-arrays-bae-graduate-certificate.cfm)
-
-[FPGA Design Fundamentals Course (UC San Diego Extension)](https://extension.ucsd.edu/courses-and-programs/fpga-design-fundamentals)
-
-[FPGA II Course (UC San Diego Extension)](https://extension.ucsd.edu/courses-and-programs/fpga-embedded-design)
-
-[FPGAs & SoCs Training from Microsemi](https://www.microsemi.com/product-directory/training/4244-fpgas-socs-training)
- 
-[DSP fundamentals for FPGAs course from MATLAB and Simulink Training](https://www.mathworks.com/training-schedule/dsp-for-fpgas.html)
- 
-[Verilog Courses on Coursera](https://www.coursera.org/courses?query=verilog)
+[200+ Arduino Projects on Instructables](https://www.instructables.com/Arduino-42/)
