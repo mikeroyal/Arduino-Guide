@@ -6,6 +6,24 @@
 
 #### A guide covering Arduino devices such as the Arduino Uno and Arduino Nano. Along with the tools, applications and libraries that will make you a better and more efficient developer with Arduino devices. Also, learn about cool projects that you can build with your Arduino device.
 
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+
+# Table of Contents
+
+1. [Models of Arduino boards](https://github.com/mikeroyal/Arduino-Guide/blob/main/README.md#models-of-arduino-boards)
+
+2. [Arduino Learning Resources](https://github.com/mikeroyal/Arduino-Guide/blob/main/README.md#arduino-learning-resources)
+
+3. [Arduino Tools](https://github.com/mikeroyal/Arduino-Guide/blob/main/README.md#arduino-tools)
+
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/111917911-9dcd9200-8a3f-11eb-8463-9c21514b4792.png">
+</p>
+
+# Models of Arduino boards
+
+[Back to the Top](https://github.com/mikeroyal/arduino-Guide/blob/main/README.md#table-of-contents)
 
 [Checkout the Arduino Starter Kit](https://store.arduino.cc/usa/arduino-starter-kit)
 
@@ -48,7 +66,9 @@
  - Digital I/O Pins	22 (6 of which are PWM)
  
  
-## Resources
+## Arduino Learning Resources
+
+[Back to the Top](https://github.com/mikeroyal/arduino-Guide/blob/main/README.md#table-of-contents)
  
 [Arduino](https://www.arduino.cc/) is an open source electronic prototyping platform enabling users to create interactive electronic objects.
  
@@ -77,7 +97,9 @@
 [200+ Arduino Projects on Instructables](https://www.instructables.com/Arduino-42/)
 
 
-## Tools
+## Arduino Tools
+
+[Back to the Top](https://github.com/mikeroyal/arduino-Guide/blob/main/README.md#table-of-contents)
  
 [Arduino CLI](https://github.com/arduino/arduino-cli) is an all-in-one solution that provides builder, Boards/Library Manager, uploader, discovery and many other tools needed to use any Arduino compatible board and platforms.
  
@@ -111,3 +133,13 @@
 [Unicorn](https://github.com/unicorn-engine/unicorn) is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
 
 [Keystone](https://github.com/keystone-engine/keystone) is a lightweight multi-platform, multi-architecture(Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) assembler framework.
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Arduino-Guide/pulls).
+
+
+## License
+[Back to the Top](https://github.com/mikeroyal/Arduino-Guide/blob/master/README.md#table-of-contents)
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
