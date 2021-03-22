@@ -16,6 +16,8 @@
 
 3. [Arduino Tools](https://github.com/mikeroyal/Arduino-Guide/blob/main/README.md#arduino-tools)
 
+4. [Operating Systems for Arduino](https://github.com/mikeroyal/Arduino-Guide/blob/main/README.md#operating-systems-for-arduino)
+
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/111917911-9dcd9200-8a3f-11eb-8463-9c21514b4792.png">
@@ -133,6 +135,25 @@
 [Unicorn](https://github.com/unicorn-engine/unicorn) is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
 
 [Keystone](https://github.com/keystone-engine/keystone) is a lightweight multi-platform, multi-architecture(Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) assembler framework.
+
+
+# Operating Systems for Arduino
+
+[Back to the Top](https://github.com/mikeroyal/arduino-Guide/blob/main/README.md#table-of-contents)
+
+[HeliOS](https://www.arduino.cc/reference/en/libraries/helios/) is an embedded operating system that is free for anyone to use. While called an operating system for simplicity, HeliOS is better described as a multitasking kernel for embedded systems.
+
+[FreeRTOS](https://freertos.org/) is a market-leading real-time operating system (RTOS) for microcontrollers and small microprocessors.
+
+[Simba](https://simba-os.readthedocs.io/en/latest/getting-started.html) is a small OS for an Embedded Programming Platform like Arduino. It aims to make embedded programming easy and portable.
+
+[Trampoline](https://github.com/TrampolineRTOS/) is a static RTOS for small embedded systems.
+
+[DuinOS](https://github.com/DuinOS/DuinOS) is Framework (a wrapper) for use the FreeRTOSwith Arduino.
+
+[VxWorks](https://www.windriver.com/products/vxworks) is an industry-leading real-time operating systems (RTOS) for building embedded devices and systems for more than 30 years.
+
+[LynxOS](https://www.lynx.com/products/lynxos-posix-real-time-operating-system-rtos) is a native POSIX, hard real-time partitioning operating system developed by Lynx Software Technologies.
 
 ## Contribute
 
