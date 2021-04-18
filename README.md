@@ -18,7 +18,7 @@
 
 4. [Operating Systems for Arduino](https://github.com/mikeroyal/Arduino-Guide/blob/main/README.md#operating-systems-for-arduino)
 
-5. [C/C++ Development](https://github.com/mikeroyal/Arduino-Guide/blob/main/README.md#cc++-development)
+5. [C/C++ Development](https://github.com/mikeroyal/Arduino-Guide/blob/main/README.md#cc-development)
 
 6. [Rust Development](https://github.com/mikeroyal/Arduino-Guide/blob/main/README.md#rust-development)
 
