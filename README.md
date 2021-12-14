@@ -8,6 +8,10 @@
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/111917911-9dcd9200-8a3f-11eb-8463-9c21514b4792.png">
+</p>
+
 # Table of Contents
 
 1. [Models of Arduino boards](https://github.com/mikeroyal/Arduino-Guide/blob/main/README.md#models-of-arduino-boards)
@@ -23,9 +27,7 @@
 6. [Rust Development](https://github.com/mikeroyal/Arduino-Guide/blob/main/README.md#rust-development)
 
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/111917911-9dcd9200-8a3f-11eb-8463-9c21514b4792.png">
-</p>
+
 
 # Models of Arduino boards
 
